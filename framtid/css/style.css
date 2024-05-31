@@ -1,0 +1,19 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+ 
+ 
+.site-footer {
+    background-color: white; 
+
+ }
+
+ .node--view-mode-teaser h2 a {
+    color: #3d52a0;
+ }
+
+ #main {
+    max-width: 65%;
+ }
